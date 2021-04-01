@@ -84,8 +84,8 @@ function sendGenericMessage(sender) {
 		    "payload": {
 				"template_type": "generic",
 			    "elements": [{
-					"title": "First card",
-				    "subtitle": "Element #1 of an hscroll",
+					"title": "Tetris - Instant Game",
+				    "subtitle": "A homegrown game.",
 				    "image_url": "https://images.unsplash.com/photo-1596998791568-386ef5297c2e",
 				    "buttons": [{
 					    "type": "web_url",
